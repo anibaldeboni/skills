@@ -3,11 +3,10 @@
 ## Motivação 
 [Explique claramente por que esta RFC existe e qual problema ela resolve:
 
-- Contexto atual e dor observada
+- Contexto atual
 - Impacto no negócio, produto ou operação
 - Quem é afetado (times, usuários, sistemas)
-- Evidências que justificam a mudança (dados, incidentes, feedbacks)
-- O que acontece se nada for feito]
+- Evidências que justificam a mudança (dados, incidentes, feedbacks)]
 
 ## Especificação técnica
 [Descreva a solução proposta em nível técnico e verificável:
